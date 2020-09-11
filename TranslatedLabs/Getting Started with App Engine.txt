@@ -39,6 +39,8 @@ Task 2: Run Hello World application locally
 
     -In Cloud Shell, click Web preview (Web Preview) > Preview on port 8080 to preview the application.
         * To access the Web preview icon, you may need to collapse the Navigation menu.
+        or run
+            curl http://localhost/8080
 
     -To end the test, return to Cloud Shell and press Ctrl+C to abort the deployed service.
 
