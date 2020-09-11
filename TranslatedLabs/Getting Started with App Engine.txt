@@ -58,3 +58,4 @@ Task 3: Deploy and run Hello World on App Engine
 
 
 Task 4: Disable the application
+    -gcloud app versions stop v1
